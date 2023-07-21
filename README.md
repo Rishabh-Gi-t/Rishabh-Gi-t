@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh24052004
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me this is my email rishabhraj3024@gmail.com
 
