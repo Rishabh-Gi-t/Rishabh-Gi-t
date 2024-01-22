@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Rishabh24052004
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning HTML,CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me this is my email rishabhraj3024@gmail.com
+- 👋 Hi, I’m Rishabh Raj 
+- 👀 I’m interested in App development and Machine learning 
+- 🌱 I’m currently learning C And DSA
+- 📫 How to reach me this is my email rishabhraj3024@gmail.com, 
 
 <!---
 Rishabh24052004/Rishabh24052004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
