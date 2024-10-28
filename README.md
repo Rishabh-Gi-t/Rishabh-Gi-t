@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishabh-Gi-t](https://github.com/Rishabh-Gi-t)
 
-- 💬 Ask me about **python, C, Django, Flask**
+- 💬 Ask me about **python, C, tensorflow**
 
 - 📫 How to reach me **rishabhraj3024@gmail.com**
 
